@@ -15,5 +15,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 
+
+
+
+This is my highschool
+[Georgetown Day School](https://www.gds.org/)
+Here's a pic of their mascot
+![Image](Hopper)
