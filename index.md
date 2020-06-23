@@ -22,4 +22,4 @@ Syntax highlighted code block
 This is my highschool
 [Georgetown Day School](https://www.gds.org/)
 Here's a pic of their mascot
-![Image](Hopper)
+![Image](Hopper.png)
