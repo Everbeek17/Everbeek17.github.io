@@ -27,4 +27,5 @@ Here's a pic of their mascot
 
 
 
-Here's a video of two men [blasting cheeks](https://youtu.be/EgK0CQdTXSI).
+Here's a video of two men blasting cheeks:  
+[![SLAPASS](https://img.youtube.com/vi/EgK0CQdTXSI/0.jpg)](https://www.youtube.com/watch?v=EgK0CQdTXSI)
