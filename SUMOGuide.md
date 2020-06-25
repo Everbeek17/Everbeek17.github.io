@@ -21,7 +21,9 @@ $ osmconvert map1.osm map2.osm map3.osm map4.osm -v --drop-author -o=completeMap
 We only want the roadway and surrounding building definitions, the .osm file contains many other things along with it (like sidewalks and railways) which we can remove to reduce any interferences that those might incite.
 Cuts out some unnecessary stuff from .osm file:
 ```bash
-$ osmfilter completeMap.osm --drop-tags="railway= highway=service =footway = path
+$ osmfilter completeMap.osm --drop-tags="railway= highway=service =footway =path =residential =pedestrian =unclassified =tertiary =tertiary_link =cycleway =steps" -o=trimmedMap.osm
 ```
+
+
 
 
