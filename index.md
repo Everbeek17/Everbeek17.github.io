@@ -16,7 +16,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-Link to [SUMO Guide](SUMOGuide.md)
+Link to [SUMO Guide](OSMGuide.md)
 
 
 My highschool is  
