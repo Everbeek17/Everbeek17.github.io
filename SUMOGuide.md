@@ -1,6 +1,6 @@
 ### Step 2.5
 
-```BASH
+```bash
 osmconvert <input .osm files> -v --drop-author -o=<output.osm file>
 ```
 example:
